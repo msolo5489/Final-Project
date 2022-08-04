@@ -1,0 +1,122 @@
+/*nav*/
+nav {
+    width: 97%;
+    border: 1px solid rgb(12, 12, 133);
+    background-color: #002efc;
+    padding: 15px;
+    text-decoration: none;
+    margin-top: 25px;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;   
+    align-content: flex-start;
+    margin-left: .1%;
+    margin-right: 0px;
+  }
+
+nav a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  /* social media icons */
+  
+nav img {
+    height: 50px;
+    width: 75px;
+    float: right;
+  }
+.facebook {
+  margin-left: 1px;
+  }
+  
+.tiktok {
+     margin-left: 2px;
+     margin-right: 2px;
+  }
+.instagram {
+    margin-right: 1px;
+  }
+
+  h1{
+      text-align: center;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      font-size: 70px;
+  }
+  img{
+      height: 500px;
+      width: 750px;
+      margin-bottom: 10px;
+  }
+  h2{
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      font-size: 50px;
+      text-align: right;
+      float: right;
+      margin-right: 100px;
+  }
+  h3{
+      font-size: 30px;
+      text-align: justify;
+      float: right; 
+      margin-left: 50%; 
+      margin-top: 0%;
+      background-color: #52aaf1;
+  }
+  /* footer */
+
+footer {
+    background-color: rgb(12, 12, 133);
+    padding-top: 20px;
+}
+.col {
+    background-color: transparent;
+    color: #fff;
+    width: 25%;
+    float: left;
+    margin: 0px 3.5%;
+    min-height: 200px;
+}
+.col h4 {
+    margin-bottom: 10px;
+}
+.col hr {
+    width: 50%;
+    display: block;
+    margin: 0px;
+}
+.col ul {
+    margin-top: 10px;
+}
+.col ul li {
+    margin-bottom: 10px;
+    list-style-type: none;
+}
+.col address {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.col h2.contact {
+    margin: 10px 0px;
+    margin-top: 10px;
+}
+.col a {
+    color: #fff;
+}
+.col a:hover {
+    color: #52aaf1;
+}
+/* copyright */
+.copy {
+    margin-top: 225px;
+    text-align: center;
+    background-color: #40e0e6;
+    color: #fff;
+    padding: 15px 0px;
+    clear: both;
+}
+.copy a{
+    color: #fff;
+}
+.copy a:hover {
+    color: #244866;
+} 
